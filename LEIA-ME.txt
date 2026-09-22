@@ -1,0 +1,14 @@
+SOCIALMIDIABM — ESBOÇO DE LANDING PAGE
+
+Arquivos:
+- index.html
+- style.css
+- script.js
+
+Importante:
+1. Substitua 55NUMERO pelo WhatsApp real.
+2. Os blocos de imagem foram deixados vazios propositalmente.
+3. Cada bloco explica qual tipo de foto, projeto ou print deve ser inserido.
+4. Os textos sobre serviços, diferenciais, antes/depois e sobre a profissional são genéricos e devem ser refinados após conversar com a cliente.
+5. A seção de feedbacks deve receber somente mensagens e depoimentos reais enviados pela cliente.
+6. O projeto já inclui responsividade para desktop, tablet e celular.
